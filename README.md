@@ -1,5 +1,13 @@
 # CECS Data Analysis Internship — Social Posts (DuckDB)
 
+## ALERT: AI Tool Usage 
+Used Claude (Anthropic) to assist with writing and debugging 
+Python analysis scripts. All logic was reviewed, tested, 
+and validated by me.
+
+
+
+
 This repo contains the analysis outputs from a large social posts dataset (~1.95M rows) linked to school/district entities via NCES IDs. The raw data is too large for Excel, so everything was done in **DuckDB + Python**, with results exported to CSV and PNG for easy sharing.
 
 ---
