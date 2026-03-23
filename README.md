@@ -2,7 +2,7 @@
 
 ## ALERT: AI Tool Usage 
 Used Claude (Anthropic) to assist with writing and debugging 
-Python analysis scripts. All logic was reviewed, tested, 
+Python analysis scripts, along with refining/cleaning. All final logic, decisions, and outputs were reviewed, tested, 
 and validated by me.
 
 
